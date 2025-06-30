@@ -4,3 +4,6 @@
 [submodule "YourTTS"]
 	path = YourTTS
 	url = https://github.com/Edresson/YourTTS
+[submodule "whisper"]
+	path = whisper
+	url = https://github.com/openai/whisper
