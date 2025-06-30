@@ -1,0 +1,6 @@
+[submodule "tortoise-tts"]
+	path = tortoise-tts
+	url = https://github.com/neonbjb/tortoise-tts
+[submodule "YourTTS"]
+	path = YourTTS
+	url = https://github.com/Edresson/YourTTS
