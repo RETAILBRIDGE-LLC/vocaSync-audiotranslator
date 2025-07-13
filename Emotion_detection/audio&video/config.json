@@ -1,0 +1,7 @@
+{
+    "bucket": "vocasync",
+    "input_prefix": "Inputvideo-forAudioExtraction/",
+    "output_prefix": "Outputaudio-Extracted/",
+    "aws_access_key": "aws_access_key",
+    "aws_secret_key": "aws_secret_key"
+}
