@@ -1,0 +1,7 @@
+sudo yum update -y
+sudo yum install -y build-essential python3-dev
+pip install --prefer-binary optree
+pip install --upgrade pip setuptools wheel
+pip install --only-binary :all: ml-dtypes
+pip install gradio numpy librosa tensorflow tensorflow_hub keras pydub
+python3 /home/ec2-user/SageMaker/AUDIO/sound_and_speech.py
