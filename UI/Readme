@@ -1,3 +1,0 @@
-Large_audios_cloning.ipynb is used to clone large audios.
-It segements audio based on pauses using whisper timestamps then translates, clones it and finally stitches back together.
-Colab is using python 3.12 version right now but TTS only supports version <=3.11. So here virtual environment is used to downgrade the python version.
