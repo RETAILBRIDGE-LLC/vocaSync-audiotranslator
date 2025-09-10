@@ -1,0 +1,12 @@
+torch
+torchaudio
+gradio==4.18.0
+moviepy
+librosa
+openai-whisper
+dtw
+resemblyzer
+deep_translator
+numpy==1.22.0
+transformers==4.41.0
+sentence-transformers==2.2.2
